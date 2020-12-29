@@ -42,3 +42,11 @@
 *://it-swarm-ko.tech/*
 *://stackanswers.net/*
 *://code.i-harness.com/*
+*://prog-help.ru/*
+*://coderquestion.ru/*
+*://de-vraag.com/*
+*://question-it.com/*
+*://stackoverrun.com/*
+*://crazygeeks.org/*
+*://querygame.com/*
+*://rupython.com/*
