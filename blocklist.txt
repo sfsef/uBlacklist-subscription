@@ -28,3 +28,17 @@
 *://coderoad.ru/*
 *://progi.pro/*
 *://quares.ru/*
+*://askvoprosy.com/*
+*://askdev.ru/*
+*://ask-ubuntu.ru/*
+*://it-swarm.dev/*
+*://it-swarm-pt.tech/*
+*://it-swarm-es.tech/*
+*://it-swarm-eu.dev/*
+*://it-swarm-ru.tech/*
+*://it-swarm.asia/*
+*://it-swarm-vi.tech/*
+*://it-swarm-ja.tech/*
+*://it-swarm-ko.tech/*
+*://stackanswers.net/*
+*://code.i-harness.com/*
