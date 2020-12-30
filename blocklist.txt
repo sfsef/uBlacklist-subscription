@@ -50,3 +50,4 @@
 *://crazygeeks.org/*
 *://querygame.com/*
 *://rupython.com/*
+*://*.rupython.com/*
