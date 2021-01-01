@@ -51,3 +51,7 @@
 *://querygame.com/*
 *://rupython.com/*
 *://*.rupython.com/*
+*://366service.com/*
+*://*.366service.com/*
+*://python5.com/*
+*://awscd.com/*
