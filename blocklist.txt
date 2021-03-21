@@ -55,3 +55,4 @@
 *://*.366service.com/*
 *://python5.com/*
 *://awscd.com/*
+*://studassistent.ru/*
